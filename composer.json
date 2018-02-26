@@ -1,0 +1,14 @@
+{
+    "name": "fcxmlybf/composerdemo",
+    "description": "composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xyx",
+            "email": "xuyunxia@sansaas.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
