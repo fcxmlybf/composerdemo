@@ -2,7 +2,7 @@
     "name": "fcxmlybf/composerdemo",
     "description": "composer test",
     "type": "project",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "xyx",
